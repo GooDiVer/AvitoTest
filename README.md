@@ -6,7 +6,7 @@
 
 
 ## Скриншоты
-- *MapActivity, отображающая все маркеров, взятых из JSON*
+- *MapActivity, отображающая все маркеры, взятые из JSON*
 
 <img src="/graphics/mapPic.jpg" height="600" />
 
